@@ -1,0 +1,206 @@
+{
+  "competitions": [
+    {
+      "_id": "feedants-dance-001",
+      "title": "Feedants Classical Dance",
+      "category": "Dance",
+      "tags": [
+        "Dance",
+        "Multi-Win",
+        "Winners get certificate"
+      ],
+      "prizePool": 1500,
+      "entryFee": 99,
+      "totalSpots": 20,
+      "bookedSpots": 1,
+      "judge": {
+        "name": "Manju Dubey",
+        "role": "Judge",
+        "title": "Professional Kathak Dancer",
+        "experience": "12+ Years of Experience",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=400",
+        "introVideoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "bio": "Manju Dubey is a renowned Kathak maestro with over a decade of national performance experience and judge of prime classical arts festivals."
+      },
+      "dates": {
+        "registerBefore": "2026-09-23T21:09:42.017Z",
+        "submissionStarts": "2026-09-20T14:21:01.968Z",
+        "submissionEnds": "2026-10-07T14:21:01.968Z",
+        "resultDate": "2026-10-12T14:21:01.968Z"
+      },
+      "previousWinners": [
+        {
+          "id": "w1",
+          "name": "Riya Shah",
+          "rank": "1st Winner",
+          "rankNumber": 1,
+          "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "danceStyle": "Kathak"
+        },
+        {
+          "id": "w2",
+          "name": "Aarav Mehta",
+          "rank": "1st Winner",
+          "rankNumber": 1,
+          "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "danceStyle": "Bharatnatyam"
+        },
+        {
+          "id": "w3",
+          "name": "Neha Verma",
+          "rank": "2nd Winner",
+          "rankNumber": 2,
+          "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=400",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "danceStyle": "Odissi"
+        },
+        {
+          "id": "w4",
+          "name": "Ishita Choudhary",
+          "rank": "3rd Winner",
+          "rankNumber": 3,
+          "avatarUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=400",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "danceStyle": "Kuchipudi"
+        }
+      ],
+      "about": {
+        "short": "This is an online classical dance competition open for all age groups. Participate from anywhere and showcase your talent. Express your passion through traditional dance.",
+        "full": "Feedants Classical Dance is India's premier digital stage celebrating heritage performing arts including Kathak, Bharatnatyam, Odissi, Kathakali, and Mohiniyattam. Participants submit high-definition solo or duet recordings judged by celebrated dance masters. Winners receive national e-certificates, cash rewards delivered within 24 hours, and promotion across our community of 500,000+ art patrons.",
+        "highlights": [
+          "Open to soloists and duets across all age categories",
+          "Original choreography or classical repertoires accepted",
+          "Video length: 2 to 4 minutes recorded in landscape orientation",
+          "Verified performance feedback from Sangeet Natak Akademi certified judges"
+        ]
+      },
+      "judgingParameters": [
+        {
+          "title": "Bhava & Expression",
+          "weightage": 30,
+          "description": "Facial expressions, eye movements (drishti bheda), and emotive connection with the musical narrative."
+        },
+        {
+          "title": "Tala & Rhythm",
+          "weightage": 30,
+          "description": "Precision of footwork (tatkar/adavour), alignment with laya, and rhythmic stability."
+        },
+        {
+          "title": "Angashuddhi & Grace",
+          "weightage": 25,
+          "description": "Body posture, clarity of mudras (hastha prayoga), and elegance of transitions."
+        },
+        {
+          "title": "Costume & Presentation",
+          "weightage": 15,
+          "description": "Authenticity of classical attire, stage lighting, and overall aesthetic poise."
+        }
+      ],
+      "rulesAndEligibility": [
+        "Participants can be of any age, nationality, or skill level.",
+        "Performance video must be recorded in landscape mode with clear audio.",
+        "Maximum allowed video duration is 4 minutes (minimum 1.5 minutes).",
+        "No lip-syncing or heavy video editing/morphing is permitted.",
+        "Only submissions submitted before the deadline will be evaluated.",
+        "Submissions must be accompanied by the participant's registered registration ID."
+      ],
+      "rewards": [
+        {
+          "rank": 1,
+          "position": "1st Winner",
+          "amount": 550,
+          "badgeType": "gold"
+        },
+        {
+          "rank": 2,
+          "position": "2nd Winner",
+          "amount": 300,
+          "badgeType": "silver"
+        },
+        {
+          "rank": 3,
+          "position": "3rd Winner",
+          "amount": 240,
+          "badgeType": "bronze"
+        },
+        {
+          "rank": 4,
+          "position": "4th Winner",
+          "amount": 200,
+          "badgeType": "star"
+        },
+        {
+          "rank": 5,
+          "position": "5th Winner",
+          "amount": 130,
+          "badgeType": "star"
+        },
+        {
+          "rank": 6,
+          "position": "6th Winner",
+          "amount": 80,
+          "badgeType": "star"
+        }
+      ],
+      "disclaimer": "Disclaimer: Only contributions from paid participants will be considered for judging.",
+      "referral": {
+        "code": "referral123",
+        "url": "https://feedants.com/r/referral123",
+        "rewardPerSignup": 10
+      },
+      "testimonials": [
+        {
+          "id": "t1",
+          "userName": "Priya Sundaram",
+          "userRole": "Bharatnatyam Performer, Chennai",
+          "rating": 5,
+          "comment": "Feedants provided an incredible platform to showcase my piece. The judges' constructive feedback helped me sharpen my adavus, and the prize was credited straight to my UPI within 2 hours!",
+          "date": "2 weeks ago",
+          "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=150"
+        },
+        {
+          "id": "t2",
+          "userName": "Devendra Kulkarni",
+          "userRole": "Kathak Disciple, Pune",
+          "rating": 5,
+          "comment": "Very seamless registration and fair judging. Being featured in the previous winners highlight helped me gain real recognition.",
+          "date": "1 month ago",
+          "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=150"
+        },
+        {
+          "id": "t3",
+          "userName": "Ananya Mukherjee",
+          "userRole": "Odissi Enthusiast, Kolkata",
+          "rating": 5,
+          "comment": "The countdown and spot tracker made the experience super exciting. Proud to have received my verified certificate of excellence!",
+          "date": "1 month ago",
+          "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150"
+        }
+      ],
+      "status": "registration_open"
+    }
+  ],
+  "registrations": [
+    {
+      "_id": "reg_feedants_demo_01",
+      "competitionId": "feedants-dance-001",
+      "userId": "user_ankush_demo",
+      "userName": "Ankush Poonia",
+      "userEmail": "ankushpoonia4896@gmail.com",
+      "userPhone": "+91 98765 43210",
+      "amountPaid": 99,
+      "paymentId": "pay_rzp_858U4MI6",
+      "paymentStatus": "paid",
+      "registeredAt": "2026-09-21T14:21:01.968Z",
+      "submission": {
+        "submittedAt": "2026-09-22T02:21:01.968Z",
+        "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "title": "Kathak TeenTaal Drut Bandish",
+        "danceStyle": "Kathak",
+        "notes": "Performed in TeenTaal 16 matras with tatkar chakkars and tihai."
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Feedants Competition Details",
+  "description": "Full-stack Competition Details module with dynamic lifecycle, spot booking, submissions, judging parameters, and payment simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
